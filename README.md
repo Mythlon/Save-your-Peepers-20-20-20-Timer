@@ -62,4 +62,6 @@ Click the **"Settings"** button in the app to change:
 
 ---
 
+![alt text](image-url)
+
 *Built with Python, customtkinter, and care for your eyes.* 
